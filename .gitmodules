@@ -1,0 +1,3 @@
+[submodule "echo_slowdown"]
+	path = echo_slowdown
+	url = https://github.com/ericskh2/echo_slowdown.git
