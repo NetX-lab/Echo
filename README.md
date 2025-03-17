@@ -1,3 +1,24 @@
+## Lastest News🎯
+
+📍[2025/03] Echo slowdown module (v1.0) has been released. This version brings the following components:
+
+**Kernel Metric Collection**
+- Utilizes NVIDIA Nsight Compute and Nsight Systems to profile GPU kernels
+- Captures detailed execution metrics including:
+- Generates baseline performance profiles for isolated kernel execution
+- Outputs structured JSON files containing raw kernel metrics
+
+**Slowdown Collection**
+- Analyzes kernel behavior under various overlap scenarios
+- Measures actual slowdown factors through controlled experiments
+- Generates ground truth data for model training and validation
+
+**Training & Testing**
+- Implements machine learning models for slowdown prediction
+- Provides comprehensive evaluation metrics
+
+
+
 # Echo Overview
 
 Echo is a simulation platform designed for distributed training of machine learning and LLMs. It helps researchers and engineers evaluate training scenarios, parallelism strategies, and hardware configurations without deploying on large physical clusters.
