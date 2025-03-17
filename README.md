@@ -3,8 +3,8 @@
 📍[2025/03] Echo slowdown module (v1.0) has been released. This version brings the following components:
 
 **Kernel Metric Collection**
-- Utilizes NVIDIA Nsight Compute and Nsight Systems to profile GPU kernels
-- Captures detailed execution metrics including:
+- Utilizes NVIDIA Nsight Compute and Nsight Systems to automatically profile GPU kernels
+- Captures detailed execution metrics
 - Generates baseline performance profiles for isolated kernel execution
 - Outputs structured JSON files containing raw kernel metrics
 
