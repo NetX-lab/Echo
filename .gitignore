@@ -28,7 +28,8 @@ wheels/
 *.tar.*
 
 # cursorrulles 文件
-*.cursorrulles
+*.cursorrules
+
 
 # IDE 相关（建议也添加）
 .idea/

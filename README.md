@@ -30,6 +30,7 @@ We are actively developing new features and plan to support:
 
 - **Expert Parallelism (EP)** for **Mixture of Experts (MoE)** models.
 - **Context Parallelism (CP)** to optimize long-sequence training.
+- **Visualization and Analysis Tool**: A tool for visualizing and analyzing all events across different GPUs/ranks.
 - **Expanded NCCL communication modeling** to enhance network simulation accuracy by incorporating more complex factors such as congestion control, adaptive routing, and bandwidth contention.
 - **Support for diverse hardware backends**, including future NVIDIA and AMD architectures.
 
