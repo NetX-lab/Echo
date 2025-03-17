@@ -1,0 +1,43 @@
+# Python 编译文件
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# CSV 文件
+*.csv
+
+# TAR 文件
+*.tar
+*.tar.*
+
+# cursorrulles 文件
+*.cursorrulles
+
+# IDE 相关（建议也添加）
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 环境相关（建议也添加）
+venv/
+env/
+.env
+.venv
