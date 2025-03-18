@@ -23,8 +23,9 @@
 
 Echo is a simulation platform designed for distributed training of machine learning and LLMs. It helps researchers and engineers evaluate training scenarios, parallelism strategies, and hardware configurations without deploying on large physical clusters.
 
-<img src="docs/images/arch.jpg" alt="Echo Architecture" width="500" />
-
+<div style="text-align: center;">
+    <img src="docs/images/arch.jpg" alt="Echo Architecture" width="550" />
+</div>
 
 ### Key Features:
 
