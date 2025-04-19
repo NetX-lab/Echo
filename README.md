@@ -72,6 +72,8 @@ If you use this repo in your research, please cite our paper:
 
 ## Contact
 
+Special thanks to [Kin Hang Sew](https://github.com/ericskh2) and [Zheng Zhou](https://github.com/z-zanez) for their contributions in organizing and open-sourcing this project.
+
 Email Yicheng Feng (<yichengfeng@link.cuhk.edu.hk>) or Eric, Kin Hang Sew (<ericskh@link.cuhk.edu.hk>) if you have any questions.
 
 ## License
