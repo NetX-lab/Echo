@@ -1,5 +1,14 @@
 ## Lastest News🎯
 
+📍[2025/05] Echo tracer module (v0.5) has been released. This version brings the following features:
+
+- **PyTorch Support**: Comprehensive tracing for PyTorch models, including:
+  - Support for HuggingFace Transformers models
+  - Support for libs (e.g., transformers, torchvision) models and custom PyTorch models
+  - Support training parallel mode like DDP
+  - Capturing both forward and backward passes and extracting execution graphs and runtime data
+
+
 📍[2025/03] Echo slowdown module (v1.0) has been released. This version brings the following features:
 
 - **Kernel Metric Collection**
