@@ -1,3 +1,6 @@
 [submodule "echo_slowdown"]
 	path = echo_slowdown
 	url = https://github.com/NetX-lab/Echo-slowdown.git
+[submodule "echo_tracer"]
+	path = echo_tracer
+	url = https://github.com/NetX-lab/Echo-workload-tracer.git
