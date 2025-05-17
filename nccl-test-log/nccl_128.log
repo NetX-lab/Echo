@@ -1,0 +1,161 @@
+[1,0]<stdout>:# nThread 1 nGpus 1 minBytes 1024 maxBytes 4294967296 step: 2(factor) warmup iters: 20 iters: 50 validation: 0 
+[1,0]<stdout>:#
+[1,0]<stdout>:# Using devices
+[1,0]<stdout>:#   Rank  0 Pid  25524 on node-000000 device  0 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank  1 Pid  25525 on node-000000 device  1 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank  2 Pid  25526 on node-000000 device  2 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank  3 Pid  25527 on node-000000 device  3 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank  4 Pid  25528 on node-000000 device  4 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank  5 Pid  25531 on node-000000 device  5 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank  6 Pid  25536 on node-000000 device  6 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank  7 Pid  25539 on node-000000 device  7 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank  8 Pid  11964 on node-000002 device  0 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank  9 Pid  11965 on node-000002 device  1 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 10 Pid  11966 on node-000002 device  2 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 11 Pid  11967 on node-000002 device  3 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 12 Pid  11968 on node-000002 device  4 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 13 Pid  11971 on node-000002 device  5 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 14 Pid  11976 on node-000002 device  6 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 15 Pid  11979 on node-000002 device  7 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 16 Pid   8913 on node-000006 device  0 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 17 Pid   8914 on node-000006 device  1 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 18 Pid   8915 on node-000006 device  2 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 19 Pid   8916 on node-000006 device  3 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 20 Pid   8917 on node-000006 device  4 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 21 Pid   8919 on node-000006 device  5 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 22 Pid   8925 on node-000006 device  6 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 23 Pid   8928 on node-000006 device  7 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 24 Pid   8673 on node-000007 device  0 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 25 Pid   8674 on node-000007 device  1 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 26 Pid   8675 on node-000007 device  2 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 27 Pid   8676 on node-000007 device  3 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 28 Pid   8677 on node-000007 device  4 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 29 Pid   8680 on node-000007 device  5 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 30 Pid   8685 on node-000007 device  6 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 31 Pid   8687 on node-000007 device  7 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 32 Pid   8755 on node-000008 device  0 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 33 Pid   8756 on node-000008 device  1 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 34 Pid   8757 on node-000008 device  2 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 35 Pid   8758 on node-000008 device  3 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 36 Pid   8759 on node-000008 device  4 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 37 Pid   8761 on node-000008 device  5 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 38 Pid   8767 on node-000008 device  6 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 39 Pid   8771 on node-000008 device  7 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 40 Pid   8755 on node-000009 device  0 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 41 Pid   8756 on node-000009 device  1 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 42 Pid   8757 on node-000009 device  2 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 43 Pid   8758 on node-000009 device  3 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 44 Pid   8759 on node-000009 device  4 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 45 Pid   8760 on node-000009 device  5 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 46 Pid   8763 on node-000009 device  6 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 47 Pid   8768 on node-000009 device  7 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 48 Pid   8754 on node-00000C device  0 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 49 Pid   8755 on node-00000C device  1 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 50 Pid   8756 on node-00000C device  2 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 51 Pid   8757 on node-00000C device  3 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 52 Pid   8758 on node-[1,0]<stdout>:00000C device  4 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 53 Pid   8761 on node-00000C device  5 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 54 Pid   8765 on node-00000C device  6 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 55 Pid   8768 on node-00000C device  7 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 56 Pid   8754 on node-00000D device  0 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 57 Pid   8755 on node-00000D device  1 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 58 Pid   8756 on node-00000D device  2 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 59 Pid   8757 on node-00000D device  3 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 60 Pid   8758 on node-00000D device  4 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 61 Pid   8759 on node-00000D device  5 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 62 Pid   8762 on node-00000D device  6 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 63 Pid   8769 on node-00000D device  7 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 64 Pid   8070 on node-00000G device  0 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 65 Pid   8071 on node-00000G device  1 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 66 Pid   8072 on node-00000G device  2 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 67 Pid   8073 on node-00000G device  3 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 68 Pid   8074 on node-00000G device  4 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 69 Pid   8075 on node-00000G device  5 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 70 Pid   8078 on node-00000G device  6 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 71 Pid   8087 on node-00000G device  7 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 72 Pid   8118 on node-00000H device  0 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 73 Pid   8119 on node-00000H device  1 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 74 Pid   8120 on node-00000H device  2 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 75 Pid   8121 on node-00000H device  3 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 76 Pid   8122 on node-00000H device  4 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 77 Pid   8123 on node-00000H device  5 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 78 Pid   8127 on node-00000H device  6 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 79 Pid   8131 on node-00000H device  7 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 80 Pid   8118 on node-00000I device  0 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 81 Pid   8119 on node-00000I device  1 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 82 Pid   8120 on node-00000I device  2 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 83 Pid   8121 on node-00000I device  3 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 84 Pid   8122 on node-00000I device  4 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 85 Pid   8123 on node-00000I device  5 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 86 Pid   8126 on node-00000I device  6 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 87 Pid   8131 on node-00000I device  7 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 88 Pid   7959 on node-00000M device  0 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 89 Pid   7960 on node-00000M device  1 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 90 Pid   7961 on node-00000M device  2 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 91 Pid   7962 on node-00000M device  3 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 92 Pid   7963 on node-00000M device  4 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 93 Pid   7966 on node-00000M device  5 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 94 Pid   7971 on node-00000M device  6 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 95 Pid   7974 on node-00000M device  7 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 96 Pid   7618 on node-00000N device  0 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 97 Pid   7619 on node-00000N device  1 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 98 Pid   7620 on node-00000N device  2 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 99 Pid   7621 on node-00000N device  3 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 100 Pid   7622 on node-00000N device  4 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 101 Pid   7624 on node-00000N device  5 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 102 Pid   7630 on node-00000N device  6 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 103 Pid   7634 on node-00000N device  7 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 104 Pid   7802 on node-00000O device  0 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 105 Pid   7803 on node-00000O device  1 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 106 Pid   7804 on node-00000O device  2 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 107 Pid   7805 on node-00000O device  3 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 108 Pid   7806 on node-00000O device  4 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 109 Pid   7809 on node-00000O device  5 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 110 Pid   7814 on node-00000O device  6 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 111 Pid   7817 on node-00000O device  7 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 112 Pid   7800 on node-00000P device  0 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 113 Pid   7801 on node-00000P device  1 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 114 Pid   7802 on node-00000P device  2 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 115 Pid   7803 on node-00000P device  3 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 116 Pid   7804 on node-00000P device  4 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 117 Pid   7807 on node-00000P device  5 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 118 Pid   7813 on node-00000P device  6 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 119 Pid   7815 on node-00000P device  7 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 120 Pid   6328 on node-00000Q device  0 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 121 Pid   6329 on node-00000Q device  1 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 122 Pid   6330 on node-00000Q device  2 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 123 Pid   6331 on node-00000Q device  3 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 124 Pid   6332 on node-00000Q device  4 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 125 Pid   6339 on node-00000Q device  5 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 126 Pid   6341 on node-00000Q device  6 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#   Rank 127 Pid   6343 on node-00000Q device  7 [0x00] A100-SXM4-40GB
+[1,0]<stdout>:#
+[1,0]<stdout>:#                                                       out-of-place                       in-place          
+[1,0]<stdout>:#       size         count      type   redop     time   algbw   busbw  error     time   algbw   busbw  error
+[1,0]<stdout>:#        (B)    (elements)                       (us)  (GB/s)  (GB/s)            (us)  (GB/s)  (GB/s)       
+[1,0]<stdout>:        1024           256     float     sum   1242.3    0.00    0.00    N/A    91.97    0.01    0.02    N/A
+[1,0]<stdout>:        2048           512     float     sum    102.7    0.02    0.04    N/A    91.88    0.02    0.04    N/A
+[1,0]<stdout>:        4096          1024     float     sum    96.81    0.04    0.08    N/A    95.21    0.04    0.09    N/A
+[1,0]<stdout>:        8192          2048     float     sum    102.8    0.08    0.16    N/A    101.1    0.08    0.16    N/A
+[1,0]<stdout>:       16384          4096     float     sum    169.9    0.10    0.19    N/A    164.7    0.10    0.20    N/A
+[1,0]<stdout>:       32768          8192     float     sum    169.5    0.19    0.38    N/A    169.9    0.19    0.38    N/A
+[1,0]<stdout>:       65536         16384     float     sum    185.3    0.35    0.70    N/A    186.5    0.35    0.70    N/A
+[1,0]<stdout>:      131072         32768     float     sum    325.3    0.40    0.80    N/A    316.5    0.41    0.82    N/A
+[1,0]<stdout>:      262144         65536     float     sum    154.2    1.70    3.37    N/A    153.5    1.71    3.39    N/A
+[1,0]<stdout>:      524288        131072     float     sum    165.8    3.16    6.28    N/A    166.4    3.15    6.25    N/A
+[1,0]<stdout>:     1048576        262144     float     sum    183.1    5.73   11.36    N/A    183.0    5.73   11.37    N/A
+[1,0]<stdout>:     2097152        524288     float     sum    214.0    9.80   19.45    N/A    215.4    9.74   19.32    N/A
+[1,0]<stdout>:     4194304       1048576     float     sum    276.8   15.15   30.07    N/A    274.9   15.26   30.28    N/A
+[1,0]<stdout>:     8388608       2097152     float     sum    345.0   24.32   48.25    N/A    342.8   24.47   48.56    N/A
+[1,0]<stdout>:    16777216       4194304     float     sum    501.3   33.46   66.41    N/A    500.9   33.49   66.46    N/A
+[1,0]<stdout>:    33554432       8388608     float     sum    804.0   41.74   82.82    N/A    808.2   41.52   82.39    N/A
+[1,0]<stdout>:    67108864      16777216     float     sum   1431.0   46.90   93.06    N/A   1459.1   45.99   91.27    N/A
+[1,0]<stdout>:   134217728      33554432     float     sum   2655.5   50.54  100.30    N/A   2598.6   51.65  102.49    N/A
+[1,0]<stdout>:   268435456      67108864     float     sum   4785.9   56.09  111.30    N/A   4935.8   54.39  107.92    N/A
+[1,0]<stdout>:   536870912     134217728     float     sum   9264.6   57.95  114.99    N/A   9257.1   58.00  115.08    N/A
+[1,0]<stdout>:  1073741824     268435456     float     sum    16586   64.74  128.46    N/A    16567   64.81  128.61    N/A
+[1,0]<stdout>:  2147483648     536870912     float     sum    34860   61.60  122.24    N/A    34814   61.69  122.41    N/A
+[1,0]<stdout>:  4294967296    1073741824     float     sum    69831   61.51  122.05    N/A    69818   61.52  122.07    N/A
+[1,0]<stdout>:# Out of bounds values : 0 OK
+[1,0]<stdout>:# Avg bus bandwidth    : 46.1536 
+[1,0]<stdout>:#
