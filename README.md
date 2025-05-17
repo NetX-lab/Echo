@@ -1,5 +1,5 @@
 ## Lastest News🎯
-📍[2025/05] We release some NCCL-test logs from hundreds of A100 GPUs in the repo.
+📍[2025/05] We release some NCCL-test logs from hundreds of GPUs in the repo.
 
 📍[2025/05] Echo tracer module (v0.5) has been released. This version brings the following features:
 
