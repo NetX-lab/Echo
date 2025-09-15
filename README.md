@@ -86,6 +86,13 @@ Special thanks to [Kin Hang Sew](https://github.com/ericskh2) for contributions 
 
 Email Yicheng Feng (<yichengfeng@link.cuhk.edu.hk>) or Eric, Kin Hang Sew (<ericskh@link.cuhk.edu.hk>) if you have any questions.
 
+Welcome to join the Echo community chat groups.
+
+<div style="text-align: left;">
+    <img src="docs/images/wechat.jpg" alt="wechat group" width="220" />
+</div>
+
+
 ## License
 
 This project is licensed under the MIT license - see the [LICENSE](LICENSE) file for details.
